@@ -3,11 +3,11 @@
 
 <body>
     <header>
-        <h1>Welcome to My Personal Website</h1>
+        <h1>Thomas Pendergast</h1>
     </header>
     <section>
         <h2>About Me</h2>
-        <p>Hello! I'm [Your Name], a [Your Profession] based in [Your Location]. I love [Your Hobbies or Interests].</p>
+        <p>Hello! I'm Thomas Pendergast, a Ph.D. candidate at Queen's University under Jason Olsthoorn and Ryan Mulligan. My research focuses on physical modelling and data-driven analysis in wave-driven mixing.</p>
     </section>
     <section>
         <h2>Projects</h2>
@@ -20,7 +20,7 @@
     </section>
     <section>
         <h2>Contact</h2>
-        <p>You can reach me at: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+        <p>You can reach me at: <a href="mailto:t.pendergast@queensu.ca">t.pendergast@queensu.ca</a></p>
     </section>
 </body>
 </html>
