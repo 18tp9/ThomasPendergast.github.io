@@ -18,7 +18,7 @@
     <section>
         <h2>Instructions</h2>
         <p>User will be prompted to select image directory upon running. They then will be promted to either select a background image or employ a maximum filter across the image directory as a proxy for background subtraction. Left and right arrows are used to parse through the images in the selected directory. Contours from the background subtraction will be shown over top of the image. Pressing 'c' prompts the user to input lower and upper cutoff pixel intensity values to isolate tune the filter for tracer isolation. Pressing the spacebar allows the user to toggle on and off the contours to determine if the cutoff filter is accurately capturing the extent of the visible tracer in the image. Lastly, pressing 'm' turns on a median filter and prompts the user to input a window size for the filter. This median filter can be turned off by pressing 'm' again and pressing enter or by setting the window size to zero.</p>
-        <p>All code can is found in VTFF.py and example images are provided in the "examples" folder.</p>
+        <p>All code is found in VTFF.py and example images are provided in the "examples" folder.</p>
     </section>
 </body>
 </html>
