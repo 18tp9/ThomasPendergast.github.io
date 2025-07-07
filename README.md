@@ -16,7 +16,7 @@
             <li>Project 1: VTFF (Visual Tracer Filter Finder): A Simple Interactive Python Application for Filter Parameter Selection </li>
             <li>Project 2: qFlux: A Data-Driven Tool for Extracting Scalar Fluxes from Vertical Profile Timeseries </li>
             <li>Project 3: PitchPred: Probablistic pitch predictor for given batter conditions using pybaseball</li>
-            <li>Project 4: PitchPred-VizTool: Buidling on pitch pred with visualizations of ball flight using stats on release point, break etc.</li>
+            <li>Project 4: PitchPred-VizTool: Building on pitch pred with visualizations of ball flight using stats on release point, break etc.</li>
         </ul>
     </section>
     <section>
