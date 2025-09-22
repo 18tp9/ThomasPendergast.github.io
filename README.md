@@ -13,8 +13,16 @@
         <h2>Projects</h2>
         <p>Here are some of my recent projects:</p>
         <ul>
-            <li>Project 1: VTFF (Visual Tracer Filter Finder): A Simple Interactive Python Application for Filter Parameter Selection </li>
-            <li>Project 2: qFlux: A Data-Driven Tool for Extracting Scalar Fluxes from Vertical Profile Timeseries </li>
+            <li>
+                <a href="https://github.com/18tp9/VTFF">
+                    VTFF (Visual Tracer Filter Finder)
+                </a>: A Simple Interactive Python Application for Filter Parameter Selection
+            </li>
+            <li>
+                <a href="https://github.com/18tp9/qFlux">
+                    qFlux
+                </a>: A Data-Driven Tool for Extracting Scalar Fluxes from Vertical Profile Timeseries
+            </li>
         </ul>
     </section>
     <section>
