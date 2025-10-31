@@ -7,7 +7,7 @@
     </header>
     <section>
         <h2>About Me</h2>
-        <p>Hello! I'm Thomas Pendergast, a Ph.D. candidate at Queen's University under Jason Olsthoorn and Ryan Mulligan. My research focuses on physical modelling and data-driven analysis in wave-driven mixing.</p>
+        <p>Hello! I'm Thomas Pendergast, a Ph.D. candidate at Queen's University under Jason Olsthoorn and Ryan Mulligan. My research focuses on physical modelling, numerical modelling, and data-driven optimization for wave-driven mixing rates.</p>
     </section>
     <section>
         <h2>Projects</h2>
